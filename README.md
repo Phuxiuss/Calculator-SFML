@@ -1,6 +1,8 @@
 # SFML Calculator
 A simple graphical calculator built using **C++** and **SFML**.  
-<img width="248" height="387" alt="image" src="https://github.com/user-attachments/assets/1f68e37b-4b90-4535-aabd-95ebe89c195e" />
+<img width="233" height="369" alt="image" src="https://github.com/user-attachments/assets/5135e452-d83a-4228-9a52-2d91e88f03da" />
+<img width="233" height="369" alt="image" src="https://github.com/user-attachments/assets/eebb5a38-876b-4066-9189-c09ec2c22f32" />
+
 
 ## Features
 - Basic arithmetic operations (+, −, ×, ÷)
