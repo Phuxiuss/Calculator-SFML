@@ -15,4 +15,4 @@ A simple graphical calculator built using **C++** and **SFML**.
 - SFML 3.0.2
 - Visual Studio 2022
 
-## Setup
+## How to build?
