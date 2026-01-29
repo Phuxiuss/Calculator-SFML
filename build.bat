@@ -4,6 +4,9 @@ echo Setting up SFML project...
 REM Copy SFML DLLs to Debug folder
 xcopy /y External\SFML-3.0.2\bin\*.dll bin\x64\Debug\
 
+REM Copy SFML DLLs to Release folder
+xcopy /y External\SFML-3.0.2\bin\*.dll bin\x64\Release\
+
 REM Open the solution
 start CalculatorSFML.sln
 
