@@ -2,10 +2,11 @@
 echo Setting up SFML project...
 
 REM Copy SFML DLLs to Debug folder
-xcopy /y External\SFML\bin\*.dll CalculatorSFML\bin\Debug\
+xcopy /y External\SFML-3.0.2\bin\*.dll CalculatorSFML\bin\Debug\
 
 REM Open the solution
 start CalculatorSFML.sln
 
-echo Done!
-pause
+echo Done! Closing in 3 seconds...
+timeout /t 3 /nobreak >nul
+exit
