@@ -20,5 +20,5 @@ This project focuses on clean structure, basic UI handling, and event-driven inp
 ## Build Instructions
 1. Clone Repository
 2. Run "built.bat". It will build for Visual Studio
-3. Open Solution if it didn't open
+3. Open Solution if it didn't automatically open
 4. Start Debugger
