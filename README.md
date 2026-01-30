@@ -9,8 +9,8 @@ This project focuses on clean structure, basic UI handling, and event-driven inp
 ## Features
 - Basic arithmetic operations (+, −, ×, ÷)
 - SFML-based window and rendering
-- Mouse input
 - Clean, modular C++ code
+- Mouse input
 
 ## Built with
 - C++ 17
