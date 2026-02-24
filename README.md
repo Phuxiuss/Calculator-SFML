@@ -1,6 +1,6 @@
 # Calculator-SFML
 A simple graphical calculator built using **C++** and **SFML**.  
-This project focuses on clean structure, basic UI handling, and event-driven input.
+It focuses on clean structure, basic UI handling, and event-driven input.
 
 This project was made for learning more about C++ built in functions and getting to know more about SFML.
 
